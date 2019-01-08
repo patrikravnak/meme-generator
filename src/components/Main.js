@@ -13,6 +13,9 @@ export default class App extends Component {
                     <Meme />
                     <Meme />
                     <Meme />
+                    <Meme />
+                    <Meme />
+                    <Meme />
                 </div>
             </div>
         );
